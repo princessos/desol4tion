@@ -1,0 +1,13 @@
+# Nmap 7.92 scan initiated Sat Jan 22 08:54:54 2022 as: nmap -sS -vv -oN _lumos 10.10.10.131
+Nmap scan report for 10.10.10.131
+Host is up, received echo-reply ttl 63 (0.46s latency).
+Scanned at 2022-01-22 08:54:55 UTC for 5s
+Not shown: 996 closed tcp ports (reset)
+PORT    STATE SERVICE REASON
+21/tcp  open  ftp     syn-ack ttl 63
+22/tcp  open  ssh     syn-ack ttl 63
+80/tcp  open  http    syn-ack ttl 63
+443/tcp open  https   syn-ack ttl 63
+
+Read data files from: /usr/bin/../share/nmap
+# Nmap done at Sat Jan 22 08:55:00 2022 -- 1 IP address (1 host up) scanned in 5.37 seconds
