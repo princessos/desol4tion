@@ -23,7 +23,7 @@ echo "ready wand... "
 read a
 echo ""
 
-echo "LUMOS PRIMA!"
+echo "LUMOS!"
 echo ""
 
 echo "1 = stealth scan"
